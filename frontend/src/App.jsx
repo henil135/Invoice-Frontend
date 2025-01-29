@@ -14,7 +14,7 @@ import SignUp from "./components/Signup";
 import ForgetPassword from "./components/ForgetPassword";
 import { UserPanel } from "./pages/User/UserPanel";
 import { AdminPanel } from "./pages/Admin/AdminPanel";
-import { ResetPassword } from "./components/ResetPassword";
+import {ResetPassword} from "./components/ResetPassword";
 import { BussinessForm } from "./components/BussinessForm";
 import Review from "./pages/Admin/Review";
 import Otpverify from "./components/Otpverify";
